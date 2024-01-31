@@ -1,17 +1,16 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"name": "Cursed Pirate",
+		"unitType": "Melee Water",
+		"uniqueTo": "Vinland",
+		"replaces": "Privateer",
+		"movement": 5,
+		"strength": 25,
+		"cost": 150,
+		"requiredTech": "Navigation",
+		"upgradesTo": "Destroyer",
+		"promotions": ["Coastal Raider I"],
+		"uniques": ["May capture killed [Water] units", "[-10]% Strength for enemy [Military] units in adjacent [All] tiles"],
+		"attackSound": "cannon"
 	}
 ]
