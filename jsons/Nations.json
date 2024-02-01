@@ -25,13 +25,48 @@
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		"afterPeace": "Hey, let's have another drink! Once you're totally drunk, you'll forget about it!",
-		"tradeRequest": "I know trading with pirates seems ridiculous but here's a good deal !",
+		"tradeRequest": "I know trading with pirates seems ridiculous but here's a good deal!",
 
-		"outerColor": [207,81,93],
+		"outerColor": [189,1,17],
 		"innerColor": [255,255,255],
 		"uniqueName": "Queen of the Seven Seas",
 		"uniques": ["[+2 Gold] from each Trade Route", "[+10]% Strength <for [Water] units>"],
 		"cities": ["Port Royal","Santo Domingo", "Havana", "Nassau", "Tortuga", "Île-à-Vache", "Petit Goâve", "Cartagena", "Puerto Rico", "Maracaibo", "Panama", "Le Vera Cruz", "Santiago de Cuba", "San Juan",
 					"Porto Bello", "Campeche", "Barataria Bay", "Matanzas", "New Providence", "Saint Thomas", "Virgin Gonda"]
+	},
+	{
+		"name": "Taika",
+		"leaderName": "Qin Shi Huang",
+		"adjective": ["taikan"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "May the heavens bless your life, O Mighty Qin Shi Huang, first emperor of the center of the world. You have united what was once a pile of butes into one of the largest empire in the world. You know how to be cruel to your ennemies but you know also how to show kindness to your friends. With the council around your side, your quest to immortality is sure to be successful ?",
+		"startIntroPart2": "Great Emperor, it is time to rule once more. Your subjects also dreams of immortality but as the spirit of a nation that will stand to the test of times. Will your new empire shine through the ages of history?",
+		
+		"declaringWar": "It is written in the heavens that my glory shall burn the weeds on my path. You are in the way.",
+		"attacked": "Nothing will destabilize the nation. Prepare to beome nothing but dust.",
+		"defeated": "At last, I have failed into my quest for immortality. I have become nothing but a fragment of history.",
+		"introduction": "Welcome to the empire at the center of the world. *coughs* I'm the first Emperor Qin Shi Huang. Could you help me on the way to immortality ?",
+		
+		"neutralHello": "The Emperor salutes you.",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin.","You have been granted an audience. Now speak."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "You dare coming here ?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Balance is back between the three virtues. Maybe we can go to more important matters now.",
+		"tradeRequest": "I offer this, for your consideration.",
+
+		"outerColor": [208,3,25],
+		"innerColor": [247,228,113],
+		"uniqueName": "The Quest for Immortality",
+		"uniques": ["[+15]% Production when constructing [All] buildings [in all cities]"],
+		"cities": ["Shanghai","Beijing", "Yueyang", "Changdu", "Changan", "Lhasa", "Dunhuang", "Loulan", "Huangshan", "Xianyang", "Beidi", "Hedong", "Shang", "Taiyuan", "Henei", "Sanchuan", "Sishui", "Kuaiji",
+					"Dang", "Donghai", "Xue", "Jibei", "Handan", "Julu", "Linzi", "Jiaodong", "Guanyang", "Liadong", "Yunzhong", "Hanzhong", "Nanyang", "Shu", "Qianzhong", "Changsha", "Minzhong", "Nanhai",
+					"Ba", "Guilin", "Xiang", "Longxi", "Jiuyang", "Langye"]
 	}
 ]
