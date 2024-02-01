@@ -15,7 +15,7 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Taika",
 		"cost": 25,
-		"science": 2,
+		"science": 1,
 		"greatPersonPoints": {"Great General": 1},
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
