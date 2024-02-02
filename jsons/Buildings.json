@@ -14,7 +14,7 @@
 		"name": "War Academy",
 		"replaces": "Barracks",
 		"uniqueTo": "Taika",
-		"cost": 25,
+		"cost": 75,
 		"science": 1,
 		"greatPersonPoints": {"Great General": 1},
 		"maintenance": 1,
