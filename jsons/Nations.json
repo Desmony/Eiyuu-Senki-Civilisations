@@ -97,7 +97,7 @@
 		"tradeRequest": "I offer this, for your consideration.",
 
 		"outerColor": [255,231,77],
-		"innerColor": [102,187,222],
+		"innerColor": [4,180,199],
 		"uniqueName": "The Philosopher-King",
 		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+1 Science] from [Hills] tiles [in all cities]"],
 		"cities": ["Persepolis","Baghdad", "Damascus", "Gordion", "Alexandria", "Samareia", "Pella", "Tarsos", "Palmyra", "Issos", "Edessa", "Ephesos", "Miletos", "Gaugamela", "Arbella", "Opis",
