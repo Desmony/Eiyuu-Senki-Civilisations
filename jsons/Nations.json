@@ -64,7 +64,7 @@
 		"outerColor": [208,3,25],
 		"innerColor": [247,228,113],
 		"uniqueName": "The Quest for Immortality",
-		"uniques": ["[+15]% Production when constructing [All] buildings [in all cities]"],
+		"uniques": ["[+15]% Production when constructing [All] buildings [in capital]", "[+1 Culture] [in cities without a [Palace]]", "[+1 Science] [in cities without a [Palace]]"],
 		"cities": ["Shanghai","Beijing", "Yueyang", "Changdu", "Changan", "Lhasa", "Dunhuang", "Loulan", "Huangshan", "Xianyang", "Beidi", "Hedong", "Shang", "Taiyuan", "Henei", "Sanchuan", "Sishui", "Kuaiji",
 					"Dang", "Donghai", "Xue", "Jibei", "Handan", "Julu", "Linzi", "Jiaodong", "Guanyang", "Liadong", "Yunzhong", "Hanzhong", "Nanyang", "Shu", "Qianzhong", "Changsha", "Minzhong", "Nanhai",
 					"Ba", "Guilin", "Xiang", "Longxi", "Jiuyang", "Langye"]
