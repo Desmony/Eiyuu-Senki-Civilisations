@@ -20,5 +20,17 @@
 		"maintenance": 1,
 		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Bronze Working"
+	},
+	{
+		"name": "Academy",
+		"replaces": "University",
+		"uniqueTo": "Macedonia",
+		"maintenance": 1,
+		"hurryCostModifier": 15,
+		"percentStatBonus": {"science": 20},
+		"specialistSlots": {"Scientist": 1},
+		"requiredBuilding": "Library",
+		"uniques": ["[+10]% Great Person generation [in this city]"],
+		"requiredTech": "Drama and Poetry"
 	}
 ]

@@ -64,9 +64,44 @@
 		"outerColor": [208,3,25],
 		"innerColor": [247,228,113],
 		"uniqueName": "The Quest for Immortality",
-		"uniques": ["[+15]% Production when constructing [All] buildings [in capital]", "[+1 Culture] [in cities without a [Palace]]", "[+1 Science] [in cities without a [Palace]]"],
+		"uniques": ["[+15]% Production when constructing [All] buildings [in capital]", "[+2 Culture] [in all cities with a world wonder]", "[+2 Science] [in all cities with a world wonder]"],
 		"cities": ["Shanghai","Beijing", "Yueyang", "Changdu", "Changan", "Lhasa", "Dunhuang", "Loulan", "Huangshan", "Xianyang", "Beidi", "Hedong", "Shang", "Taiyuan", "Henei", "Sanchuan", "Sishui", "Kuaiji",
 					"Dang", "Donghai", "Xue", "Jibei", "Handan", "Julu", "Linzi", "Jiaodong", "Guanyang", "Liadong", "Yunzhong", "Hanzhong", "Nanyang", "Shu", "Qianzhong", "Changsha", "Minzhong", "Nanhai",
 					"Ba", "Guilin", "Xiang", "Longxi", "Jiuyang", "Langye"]
+	},
+	{
+		"name": "Macedonia",
+		"leaderName": "Alexander the Great",
+		"adjective": ["macedonian"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Mighty Conqueror, son of Zeus, Alexander III. They don't call you the Great for nothing. You started as the small kingdom of Macedon to finish as the empire that span the entire known world. The loyalty of you soldiers can't be questionned as they follow you to the faraway lands from Egypt to India. And yet, you remain a wise emperor, under the advice of Aristotle and Eumenes. The local population applaude you as their liberator wherever you go.",
+		"startIntroPart2": "Great Conqueror, the world is calling. Your army is ready again to follow to the world's end. Unify all people under your boots ounce more and you will be remembered as a legend. Will your new empire shine through the ages of history?",
+		
+		"declaringWar": "I hope you really don't mind but I just wanted to test how far my army would go. Nothing personal.",
+		"attacked": "You dare attack the invicible army that conqured the whole world ? I'm almost impressed.",
+		"defeated": "Ah finally, I have found someone as strong as me. Too bad it must comes to an end.",
+		"introduction": "Greetings, I am the King of Macedonia, Pharaoh of Upper and Lower Egypt, Shah of the Achaemenids and also the General who conquered the world to its end. Maybe you have heard of me? Wa ha ha",
+		
+		"neutralHello": "Ah hello there. Do not mind that girl over here, she's just writing this conversation down if you don't mind.",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "You dare coming here ?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Balance is back between the three virtues. Maybe we can go to more important matters now.",
+		"tradeRequest": "I offer this, for your consideration.",
+
+		"outerColor": [253,228,2],
+		"innerColor": [16,173,183],
+		"uniqueName": "The Philosopher-King",
+		"uniques": ["[-20]% Culture cost of adopting new Policies", "[+1 Science] from [Hills] tiles [in all cities]"],
+		"cities": ["Persepolis","Baghdad", "Damascus", "Gordion", "Alexandria", "Samareia", "Pella", "Tarsos", "Palmyra", "Issos", "Edessa", "Ephesos", "Miletos", "Gaugamela", "Arbella", "Opis",
+					"Susa", "Ectebana", "Rhagae", "Pasargadae", "Hecatompylos", "Zadracarta", "Susia", "Comana", "Ancyra", "Arigaeum", "Pattala", "Rhambacia", "Harmozia", "Pura", "Nicephorion",
+					"Syene", "Paraetonion", "Halicarnassos", "Odessos", "Byzantion", "Chaeonea", "Aspardana"]
 	}
 ]
