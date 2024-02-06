@@ -32,5 +32,14 @@
 		"percentStatBonus": {"science": 50},
 		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city", "Free [Great Scientist] appears", "Free Social Policy"],
 		"requiredTech": "Philosophy"
+	},
+	{
+		"name": "Torture Room",
+		"replaces": "Courthouse",
+		"uniqueTo": "Russia",
+		"maintenance": 2,
+		"happiness": 2,
+		"uniques": ["Remove extra unhappiness from annexed cities", "Can only be built [in annexed cities]"],
+		"requiredTech": "Mathematics"
 	}
 ]

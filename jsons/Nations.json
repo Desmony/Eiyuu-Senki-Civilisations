@@ -93,7 +93,7 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Balance is back between the three virtues. Maybe we can go to more important matters now.",
+		"afterPeace": "This is merely temporary. I'll be back after.",
 		"tradeRequest": "I offer this, for your consideration.",
 
 		"outerColor": [255,231,77],
@@ -103,5 +103,40 @@
 		"cities": ["Persepolis","Baghdad", "Damascus", "Gordion", "Alexandria", "Samareia", "Pella", "Tarsos", "Palmyra", "Issos", "Edessa", "Ephesos", "Miletos", "Gaugamela", "Arbella", "Opis",
 					"Susa", "Ectebana", "Rhagae", "Pasargadae", "Hecatompylos", "Zadracarta", "Susia", "Comana", "Ancyra", "Arigaeum", "Pattala", "Rhambacia", "Harmozia", "Pura", "Nicephorion",
 					"Syene", "Paraetonion", "Halicarnassos", "Odessos", "Byzantion", "Chaeonea", "Aspardana"]
+	},
+	{
+		"name": "Russia",
+		"leaderName": "Ivan Grozny",
+		"adjective": ["russian"],
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Zdravstvuyte, first Tsar of all Russia, Ivan Grozny. You have mastered the Thunder-sword and conquered a whole continenent. You inspire terror in both you allies and ennemies. You turned was once just permafrost into a fearful empire. Your people are ready to die for you and you're not one who hesitate to use that devotion.",
+		"startIntroPart2": "Great Autocrat, there is a world to conquer and to subdue under your feet. Like thunder, you will be the light that shatters the sky. It is up to you to make other suffer enough to subjugate them, as everyone will be under your wrath. Will your new empire shine through the ages of history?",
+		
+		"declaringWar": "War is a game to me and I would like to play it with you. I don't need your answer.",
+		"attacked": "The whole country will die for me before you can touch me. You will understand the devotion of the Russian People.",
+		"defeated": "I am the one who is supposed to inflict pain, not you.",
+		"introduction": "Welcome to my permafrost Empire! I am Ivan the Terrible, the first Tsar of this land of magic and ice. I have already compared the snow from West and East of this land.",
+		
+		"neutralHello": "Ah hello there. I was just whipping this girl and... No it's not a punishment, it is a reward actually. Well speak now.",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "I'm busy.",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "You wait until I get back. This isn't over yet.",
+		"tradeRequest": "I offer this, for your consideration.",
+
+		"outerColor": [200,11,31],
+		"innerColor": [58,89,189],
+		"uniqueName": "Sadistic Feelings",
+		"uniques": ["[-30]% Unhappiness from [Population] [in all cities]", "Free [Melee] appears <upon founding a city>", "Free [Melee] appears <upon conquering a city>"],
+		"cities": ["St Petersbourg", "Moscow", "Irkustsk", "Yakutsk", "Vladivostock", "Kamchatsky", "Kashchei Village", "Kitezh", "Tunguska", "Novgorod", "Rostov", "Yaroslav", "Galich", "Ryazan", "Kazan",
+					"Isker", "Voronezh", "Astrakhan", "Azov", "Solikamsk", "Arkhangelsk", "Obdorsk", "Tobolsk", "Sarai", "Taganrog", "Tushino", "Tver", "Rzhev"]
 	}
 ]

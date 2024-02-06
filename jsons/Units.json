@@ -43,5 +43,20 @@
 			"Must set up to ranged attack", "[-1] Sight"],
 		"hurryCostModifier": 20,
 		"attackSound": "throw"
+	},
+	{
+		"name": "Halberdier",
+		"uniqueTo": "Russia",
+		"replaces": "Longswordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 21,
+		"cost": 120,
+		"requiredTech": "Steel",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Gunpowder",
+		"requiredResource": "Iron",
+		"promotions": ["Shock I", "Cover I"],
+		"attackSound": "metalhit"
 	}
 ]
