@@ -1,68 +1,89 @@
 
 game.png
-size: 2048, 256
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Lyceum
   rotate: false
-  xy: 4, 4
+  xy: 420, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Pirate Harbor
   rotate: false
-  xy: 836, 4
+  xy: 420, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+BuildingIcons/Torture Room
+  rotate: false
+  xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/War Academy
   rotate: false
-  xy: 1044, 4
+  xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Macedonia
   rotate: false
-  xy: 1252, 104
+  xy: 836, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Russia
+  rotate: false
+  xy: 628, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 NationIcons/Taika
   rotate: false
-  xy: 1360, 104
+  xy: 1044, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Vinland
   rotate: false
-  xy: 1468, 104
+  xy: 1152, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Cursed Pirate
   rotate: false
-  xy: 212, 4
+  xy: 4, 212
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Halberdier
+  rotate: false
+  xy: 4, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Ji Infantry
   rotate: false
-  xy: 420, 4
+  xy: 212, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 UnitIcons/Lithobolos
   rotate: false
-  xy: 628, 4
+  xy: 212, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0

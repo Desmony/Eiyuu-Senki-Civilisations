@@ -2,7 +2,7 @@
 	{
 		"name": "Vinland",
 		"leaderName": "Alwida",
-		"adjective": ["vinlander"],
+		"adjective": ["Vinlander"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
@@ -37,7 +37,7 @@
 	{
 		"name": "Taika",
 		"leaderName": "Qin Shi Huang",
-		"adjective": ["taikan"],
+		"adjective": ["Taikan"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "May the heavens bless your life, O Mighty Qin Shi Huang, first emperor of the center of the world. You have united what was once a pile of butes into one of the largest empire in the world. You know how to be cruel to your ennemies but you know also how to show kindness to your friends. With the council around your side, your quest to immortality is sure to be successful ?",
@@ -72,7 +72,7 @@
 	{
 		"name": "Macedonia",
 		"leaderName": "Alexander the Great",
-		"adjective": ["macedonian"],
+		"adjective": ["Macedonian"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Mighty Conqueror, son of Zeus, Alexander III. They don't call you the Great for nothing. You started as the small kingdom of Macedon to finish as the empire that span the entire known world. The loyalty of you soldiers can't be questionned as they follow you to the faraway lands from Egypt to India. And yet, you remain a wise emperor, under the advice of Aristotle and Eumenes. The local population applaude you as their liberator wherever you go.",
@@ -107,7 +107,7 @@
 	{
 		"name": "Russia",
 		"leaderName": "Ivan Grozny",
-		"adjective": ["russian"],
+		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Domination",
 		
@@ -135,7 +135,7 @@
 		"outerColor": [200,11,31],
 		"innerColor": [58,89,189],
 		"uniqueName": "Sadistic Feelings",
-		"uniques": ["[-30]% Unhappiness from [Population] [in all cities]", "Free [Melee] appears <upon founding a city>", "Free [Melee] appears <upon conquering a city>"],
+		"uniques": ["[-30]% Unhappiness from [Population] [in all cities]", "[+20]% Production when constructing [Melee] units [in annexed cities]"],
 		"cities": ["St Petersbourg", "Moscow", "Irkustsk", "Yakutsk", "Vladivostock", "Kamchatsky", "Kashchei Village", "Kitezh", "Tunguska", "Novgorod", "Rostov", "Yaroslav", "Galich", "Ryazan", "Kazan",
 					"Isker", "Voronezh", "Astrakhan", "Azov", "Solikamsk", "Arkhangelsk", "Obdorsk", "Tobolsk", "Sarai", "Taganrog", "Tushino", "Tver", "Rzhev"]
 	}
