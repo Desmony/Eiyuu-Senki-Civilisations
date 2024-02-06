@@ -4,7 +4,7 @@ size: 2048, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Academy
+BuildingIcons/Lyceum
   rotate: false
   xy: 4, 4
   size: 200, 200

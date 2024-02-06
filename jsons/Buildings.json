@@ -22,15 +22,15 @@
 		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Academy",
-		"replaces": "University",
+		"name": "Lyceum",
+		"replaces": "National College",
 		"uniqueTo": "Macedonia",
-		"maintenance": 1,
-		"hurryCostModifier": 15,
-		"percentStatBonus": {"science": 20},
-		"specialistSlots": {"Scientist": 1},
-		"requiredBuilding": "Library",
-		"uniques": ["[+10]% Great Person generation [in this city]"],
-		"requiredTech": "Drama and Poetry"
+		"cost": 125,
+		"science": 3,
+		"culture": 1,
+		"isNationalWonder": true,
+		"percentStatBonus": {"science": 50},
+		"uniques": ["Requires a [Library] in all cities", "Cost increases by [30] per owned city", "Free [Great Scientist] appears", "Free Social Policy"],
+		"requiredTech": "Philosophy"
 	}
 ]
