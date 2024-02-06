@@ -1,0 +1,9 @@
+{
+    "isBaseRuleset": false,
+    "unitsToRemove": [
+        "Cossack"
+    ],
+    "buildingsToRemove": [
+        "Krepost"
+    ]
+}
