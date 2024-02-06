@@ -99,7 +99,7 @@
 		"outerColor": [255,231,77],
 		"innerColor": [4,180,199],
 		"uniqueName": "The Philosopher-King",
-		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+1 Science] from every [Hills]"],
+		"uniques": ["[-10]% Culture cost of adopting new Policies", "[+1 Science] from every [Hill]"],
 		"cities": ["Persepolis","Baghdad", "Damascus", "Gordion", "Alexandria", "Samareia", "Pella", "Tarsos", "Palmyra", "Issos", "Edessa", "Ephesos", "Miletos", "Gaugamela", "Arbella", "Opis",
 					"Susa", "Ectebana", "Rhagae", "Pasargadae", "Hecatompylos", "Zadracarta", "Susia", "Comana", "Ancyra", "Arigaeum", "Pattala", "Rhambacia", "Harmozia", "Pura", "Nicephorion",
 					"Syene", "Paraetonion", "Halicarnassos", "Odessos", "Byzantion", "Chaeonea", "Aspardana"]
