@@ -18,23 +18,30 @@ BuildingIcons/Pirate Harbor
   orig: 200, 200
   offset: 0, 0
   index: -1
-BuildingIcons/Torture Room
+BuildingIcons/Saloon
   rotate: false
   xy: 628, 4
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
+BuildingIcons/Torture Room
+  rotate: false
+  xy: 836, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
 BuildingIcons/War Academy
   rotate: false
-  xy: 836, 212
+  xy: 1044, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 NationIcons/Macedonia
   rotate: false
-  xy: 836, 104
+  xy: 1044, 104
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -48,14 +55,21 @@ NationIcons/Russia
   index: -1
 NationIcons/Taika
   rotate: false
-  xy: 1044, 312
+  xy: 1252, 312
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/USA
+  rotate: false
+  xy: 1360, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Vinland
   rotate: false
-  xy: 1152, 312
+  xy: 1468, 312
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -84,6 +98,13 @@ UnitIcons/Ji Infantry
 UnitIcons/Lithobolos
   rotate: false
   xy: 212, 4
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+UnitIcons/Steamship
+  rotate: false
+  xy: 836, 212
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
