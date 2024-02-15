@@ -58,5 +58,21 @@
 		"requiredResource": "Iron",
 		"promotions": ["Shock I", "Cover I"],
 		"attackSound": "metalhit"
+	},
+	{
+		"name": "Steamship",
+		"uniqueTo": "USA",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 45,
+		"rangedStrength": 45,
+		"cost": 280,
+		"requiredTech": "Steam Power",
+		"requiredResource": "Coal",
+		"upgradesTo": "Battleship",
+		"obsoleteTech": "Electronics",
+		"uniques": ["[+25]% Strength <vs [Water] units>","Double movement in [Coast]", "Never appears as a Barbarian unit"],
+		"promotions": ["Indirect Fire"],
+		"attackSound": "shipguns"
 	}
 ]

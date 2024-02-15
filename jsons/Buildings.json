@@ -41,5 +41,14 @@
 		"happiness": 2,
 		"uniques": ["Remove extra unhappiness from annexed cities", "Can only be built [in annexed cities]"],
 		"requiredTech": "Mathematics"
+	},
+	{
+		"name": "Saloon",
+		"replaces": "Theatre",
+		"uniqueTo": "USA",
+		"happiness": 4,
+		"uniques": ["[+1 Gold] per [2] population [in this city]"],
+		"requiredBuilding": "Colosseum",
+		"requiredTech": "Printing Press"
 	}
 ]

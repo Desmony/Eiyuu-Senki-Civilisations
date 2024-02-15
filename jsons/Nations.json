@@ -138,5 +138,38 @@
 		"uniques": ["[-30]% Unhappiness from [Population] [in all cities]", "[+20]% Production when constructing [Melee] units [in annexed cities]"],
 		"cities": ["St Petersbourg", "Moscow", "Irkustsk", "Yakutsk", "Vladivostock", "Kamchatsky", "Kashchei Village", "Kitezh", "Tunguska", "Novgorod", "Rostov", "Yaroslav", "Galich", "Ryazan", "Kazan",
 					"Isker", "Voronezh", "Astrakhan", "Azov", "Solikamsk", "Arkhangelsk", "Obdorsk", "Tobolsk", "Sarai", "Taganrog", "Tushino", "Tver", "Rzhev"]
+	},
+	{
+		"name": "USA",
+		"leaderName": "Christopher Columbus",
+		"adjective": ["American"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Welcome, Christopher Columbus to your empire. You left the old continent for the New World where you constructed a new country from your own hands. You have built so much and yet, there is so much to do left. But that isn't a problem for you, as you have enough money to buy the country again. And if someone dares standing in your way, you'll defeat them, by a game of poker, or by a bullet.",
+		"startIntroPart2": "Goddess of Victory, a new world is awaiting you once again. You already know the ropes of this perfectly so this will not be a challenge for you. There is money to be made, alliances to be forged and land to explore. Will your new empire shine through the ages of history?",
+		
+		"declaringWar": "I was a bit in need of money so I thought that I should take it where it was. Don't worry, I'll let you keep your pants, no matter how badly you lose.",
+		"attacked": "I defeat bandits more dangerous than you for breakfast. Let's see quickly you'll lose that game.",
+		"defeated": "Guess I should go back to Europe then.",
+		"introduction": "Welcome to the land of the free where everything is possible. Do you like poker ? I heard one game is enough to learn everything about someone.",
+		
+		"neutralHello": "Welcome. Are you here to make some good deals ?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Oh it's you. Then be quick.",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Good, the cash will flow now.",
+		"tradeRequest": "Good deals makes good friends. And you don't want to make me your ennemy do you ?",
+
+		"outerColor": [1,82,154],
+		"innerColor": [237,76,30],
+		"uniqueName": "Egg Bullet",
+		"uniques": ["[+15]% Production when constructing [Gunpowder] units [in all cities]"],
+		"cities": ["San Francisco", "Salt Lake City", "Kansas City", "Edmonton", "Vancouver", "Yellowknife", "Anchorage", "Chicago", "New York", "St-Louis", "Pensacola", "Dallas", "Fort Sumner", "Chiwuawua"]
 	}
 ]
